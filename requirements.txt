@@ -21,7 +21,7 @@ markov_clustering==0.0.6.dev0
 matplotlib==3.5.1
 networkx==2.5
 nltk==3.7
-numpy==1.22.3
+numpy==1.23.2
 ordereddict==1.1
 pandas==1.4.1
 Pillow==9.1.1
