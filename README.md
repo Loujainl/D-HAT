@@ -18,3 +18,8 @@ D-HAT goes beyond existing works in three ways:
     3. Configuration for D-HAT: 
     * Syntactic, Semantic, or Hybrid
     * Dirty or Clean-Clean Task
+
+### Citation
+If you use D-HAT, please cite the following paper:
+<br/>
+_Liekah, L., Papadakis, G. (2022). Deduplication Over Heterogeneous Attribute Types (D-HAT). In: Chen, W., Yao, L., Cai, T., Pan, S., Shen, T., Li, X. (eds) Advanced Data Mining and Applications. ADMA 2022. Lecture Notes in Computer Science(), vol 13726. Springer._
