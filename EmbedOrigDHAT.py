@@ -1,3 +1,12 @@
+## ---------------------------------------------------------------------------------------------------------------
+## Script name: EmbedOrigDHAT.py
+## Purpose of script: Entity Matching or Deduplicating datasets with Heterogeneous Attribute Types
+## Author: Loujain Liekah
+## Date Created: 15-05-2021
+## Copyright (c) Loujain Liekah, 2021
+## ----------------------------------------------------------------------------------------------------------------
+##
+
 import RL
 import pandas as pd
 import numpy as np
