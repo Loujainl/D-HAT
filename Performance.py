@@ -1,3 +1,12 @@
+## ---------------------------------------------------------------------------------------------------------------
+## Script name: Performance.py
+## Purpose of script: Evaluating the performance of D-HAT using different thresholds
+## Author: Loujain Liekah
+## Date Created: 15-05-2021
+## Copyright (c) Loujain Liekah, 2021
+## ----------------------------------------------------------------------------------------------------------------
+##
+
 import pandas as pd
 import numpy as np
 import ProcessBlock
