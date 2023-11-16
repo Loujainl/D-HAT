@@ -1,3 +1,12 @@
+## ---------------------------------------------------------------------------------------------------------------
+## Script name: EmbeddingTools.py
+## Purpose of script: Creating Pre-trained Embeddings for Textual Data of the entities
+## Author: Loujain Liekah
+## Date Created: 15-05-2021
+## Copyright (c) Loujain Liekah, 2021
+## ----------------------------------------------------------------------------------------------------------------
+##
+
 import numpy as np
 import pandas as pd
 from nltk import word_tokenize
