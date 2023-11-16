@@ -1,5 +1,5 @@
 ## ---------------------------------------------------------------------------------------------------------------
-## Script name: EmbedOrigDHAT.py
+## Script name: RL.py
 ## Purpose of script: Data Cleaning, Converting Data Types, Normalizing and Creating Blocks
 ## Author: Loujain Liekah
 ## Date Created: 15-05-2021
