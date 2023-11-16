@@ -1,3 +1,13 @@
+## ---------------------------------------------------------------------------------------------------------------
+## Script name: ProcessBlock.py
+## Purpose of script: Processing blocks by creating a feature vector for each candidate pair, estimating their matching score, and clustering the similarity graph to find matches
+## Author: Loujain Liekah
+## Date Created: 15-05-2021
+## Copyright (c) Loujain Liekah, 2021
+## ----------------------------------------------------------------------------------------------------------------
+##
+
+
 import RL
 import features
 import numpy as np
