@@ -1,3 +1,12 @@
+## ---------------------------------------------------------------------------------------------------------------
+## Script name: EmbedOrigDHAT.py
+## Purpose of script: Data Cleaning, Converting Data Types, Normalizing and Creating Blocks
+## Author: Loujain Liekah
+## Date Created: 15-05-2021
+## Copyright (c) Loujain Liekah, 2021
+## ----------------------------------------------------------------------------------------------------------------
+##
+
 import numpy as np
 import itertools
 from transformers import logging
