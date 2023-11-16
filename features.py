@@ -1,3 +1,12 @@
+## ---------------------------------------------------------------------------------------------------------------
+## Script name: features.py
+## Purpose of script: Deploying the various similarity functions on the attribute values of candidate pairs. 
+## Author: Loujain Liekah
+## Date Created: 15-05-2021
+## Copyright (c) Loujain Liekah, 2021
+## ----------------------------------------------------------------------------------------------------------------
+##
+
 import nltk
 import Levenshtein as l
 import numpy as np
