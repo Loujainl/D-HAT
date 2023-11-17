@@ -1,7 +1,7 @@
 # D-HAT
 ### Deduplication over Heterogeneous Attribute Types
 
-D-HAT is a learning-free pipeline for end-to-end entity matching between two data sources or deduplication of one.
+D-HAT is an end-to-end unsupervised entity matching system to link two data sources or deduplicate one.
 D-HAT goes beyond existing works in three ways:
 1. Deduplicates data sets with *heterogeneous* types of attributes and missing values.
 2. Inherently supports and leverages complex schemata of *high dimensionality*.
