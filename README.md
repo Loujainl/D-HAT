@@ -1,3 +1,5 @@
+![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/deduplication-over-heterogeneous-attribute/entity-resolution-on-amazon-google)](https://paperswithcode.com/sota/entity-resolution-on-amazon-google?p=deduplication-over-heterogeneous-attribute)
+
 # D-HAT
 ### Deduplication over Heterogeneous Attribute Types
 
